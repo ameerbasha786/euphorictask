@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
+.div1{
+    background-color: #4b4d4f;
+    
+}
+
+.maindiv{
+    overflow: hidden;
+}
+.sub1div1{
+    background-color: #252626;
+    text-align: center;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.msg-box{
+    border:0;
+    border-bottom: 1px solid #128c7e;
+    margin:0%;
+    color:#2e302f
+}
+
+.spanuser{
+display: flex;
+float: right;
+}
+
+.sub2div2{
+    background-color: #2e302f;
+    text-align: center;
+}
+
+.sub2div2 h6{
+    color:white;
+    font-family: 'Manrope', sans-serif;
+}
+
+.test-watsapp{
+    color:white;
+    background-color: #128c7e;
+    border-radius: 10px;
+}
+.test-skype{
+    color: skyblue;
+    background-color: white;
+    border: 1px solid transparent;
+    border-radius:100px
+}
+.test{
+    color:white;
+}
+
+hr{
+    border:1px solid #4b4d4f;
+}
+.sub3div3 input{
+ background-color: #303331; 
+ border:1px solid transparent;
+ border-bottom-right-radius:50px;
+ border-top-right-radius: 50px;
+ outline-color: transparent;
+ outline-style: none;
+}
+
+.test-search{
+background-color:#303331;
+color:white
+}
+ 
+.btnsearch{
+    background-color:#303331;
+    border:1px solid #303331;
+    border-top-left-radius:50px;
+    border-bottom-left-radius:50px;
+    outline-color: transparent;
+    outline-style: none;
+}
+
+.sub3div3{
+    text-align: center;
+}
+
+.msg-div{
+background-color: #ccc;
+}
+.msg-div div{
+    position:relative;
+    top:500px;
+    border:0;
+    border-bottom: 1px solid #128c7e;
+    border-top: 1px solid #128c7e;
+}
+.msg-div div input{
+    background-color: transparent;
+    border:none;
+    outline-style: none;
+    width:90%;
+    
+}
+
+.msg-div div i{
+    border:none;
+    margin:0%;
+    padding-bottom: 7px;
+    padding-top:7.5px ;
+}
+
+.profile-div{
+    display: flex;
+    justify-content: space-between;
+    border:0;
+    border-bottom: 1px solid #128c7e;
+}
+
+.profile-div h6{
+    color:#128c7e
+}
+
+.profile-pic{
+position: relative;
+left:80px;
+color: green;
+}
+.firstmessage i{
+    display:flex;
+    float:left;
+}
+.secondmessage i{
+    float:right
+}
+.secondmessage pre{
+    float:right
+}
+.profilename{
+    color:#ccc;
+    text-align: center;
+}
+
+.dots{
+    float:right;
+    color:#128c7e
+}
+.profile-div i{
+    color:#128c7e
+}
+
+p{
+    color:white
+}
